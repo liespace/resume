@@ -1,0 +1,32 @@
+﻿\resheading{Projects}
+  \begin{itemize}[leftmargin=*]
+
+    \item \ressubsingleline{Formal Collision Avoidance Analysis for Rigorous Building of Autonomous Marine Vehicles}{}{}
+    {\small
+     \begin{itemize}
+         \item{Description: Collision avoidance is an essential ingredient to ensure safety for autonomous marine vehicles (AMVs). We investigate the fundamental rules of collision avoidance for AMVs. In the investigation, we present a formal model using timed automata to analyze the completeness and consistency of the rules, and then enumerate all the encountering scenarios and present the through analysis from various perspectives.}
+     \end{itemize}
+    }
+
+    \item \ressubsingleline{LiDAR Based Navigable Region Detection for Unmanned Surface Vehicles}{}{}
+    {\small
+     \begin{itemize}
+         \item{Description: Detection of the navigable regions for the unmanned surface vehicles (USVs) sailing on the narrow rivers is very important. We propose a scheme to process 3D LiDAR point clouds to achieve an accurate and robust navigable regions detection. This scheme consists of three parts: 1)Applying a deep learning method to classify river objects; 2) Designing an improved convex polygon fitting method to extract water surface; 3) Employing a customized particle filter to fitter out the noise point clouds on the water surface and obtain the fine navigable region.}
+     \end{itemize}
+    }
+
+    \item \ressubsingleline{Remote Motive Maritime Objects Detection Based on Multi-sensor Fusion Method}{}{}
+    {\small
+     \begin{itemize}
+         \item{Description: The marine environment is complex, so it is difficult for a single sensor to provide comprehensive environmental information for the unmanned surface vehicles. In this project, we propose a multi-sensor fusion method, which can fuse the data of binocular camera, LiDAR, IMU and GPS, to measure the distance and moving state of the maritime objects.  }
+     \end{itemize}
+    }
+    
+    \item \ressubsingleline{SLAM for complex river scene based on vision sensor and LiDAR}{}{}
+    {\small
+     \begin{itemize}
+         \item{Description: In some complex river scene, irregular bridges with holes and }
+     \end{itemize}
+    }
+
+  \end{itemize}
