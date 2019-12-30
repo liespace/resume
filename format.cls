@@ -1,5 +1,5 @@
 % [a4paper]
-\usepackage[centering,paperwidth=210mm,paperheight=297mm,body={180mm,247mm}]{geometry}
+\usepackage[centering,paperwidth=210mm,paperheight=297mm,body={190mm,267mm}]{geometry}
 
 \usepackage{
   hyperref,
@@ -11,7 +11,9 @@
   xeCJK, % replace with CJK for sharelatex.com
   multirow,
   enumitem,
-  calc % fix hbox too wide for heading, enable caculate
+  calc, % fix hbox too wide for heading, enable caculate
+  graphicx,
+  setspace
 }
 
 % \usepackage{latexsym,verbatim,url,CJKutf8}
